@@ -1,3 +1,3 @@
 #Neatish Documentation
-===
-See the documentation [here](https://asharirfan.github.io/NeatishDocumentation)
+=
+See the documentation [here.](https://asharirfan.github.io/NeatishDocumentation)
